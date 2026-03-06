@@ -5,6 +5,9 @@
 **RU:** Расширение для Ubuntu (GNOME Shell 46) для контроля минимального и максимального уровня заряда батареи. Работает и протестировано на ноутбуке **Huawei Matebook 14 FLMH-X**.  
 
 ---
+<img width="1920" height="1080" alt="Снимок экрана от 2026-03-06 12-26-26" src="https://github.com/user-attachments/assets/6253b2d3-0fad-4975-897b-f0eb7ed89f6f" />
+
+---
 
 ## Installation / Установка
 
