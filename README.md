@@ -34,7 +34,7 @@ sudo nano /etc/sudoers.d/battery-threshold
 USERNAME ALL=(ALL) NOPASSWD: /usr/local/bin/set_battery_thresholds_for_ext.sh
 ```
 
-### 4. Install the GNOME Shell extension / Установка расширения
+### 4. Сreate the GNOME Shell extension / Создание расширения
 ```bash
 mkdir -p ~/.local/share/gnome-shell/extensions/battery-thresholds@dsemkin
 cd ~/.local/share/gnome-shell/extensions/battery-thresholds@dsemkin
