@@ -1,0 +1,6 @@
+{
+    "uuid": "battery-thresholds@dsemkin",
+    "name": "Battery Thresholds",
+    "description": "Battery thresholds management",
+    "shell-version": [ "46" ]
+}
